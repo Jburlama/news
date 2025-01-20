@@ -6,7 +6,9 @@ day: the date the article was published
 limit: number of articles to fetch
 
 Usage:
+
 `python3 main.py` default q=technology day=today limit=100
+
 `python3 main.py q=topic day=yyyy-mm-dd limit=[1-100]`
 
 
