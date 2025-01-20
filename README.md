@@ -11,6 +11,10 @@ Usage:
 
 `python3 main.py q=topic day=yyyy-mm-dd limit=[1-100]`
 
+Requirement:
+
+```pip install requests```
+
 
 # DEMO
 
