@@ -1,9 +1,13 @@
 This Python script locates articles worldwide, orders them by popularity using the NewsAPI, and stores them in an SQLite database.
 
 In the command line, you have the option to set:
+
 q: topic of the article
+
 day: the date the article was published
+
 limit: number of articles to fetch
+
 
 Usage:
 
