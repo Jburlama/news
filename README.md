@@ -2,11 +2,11 @@ This Python script locates articles worldwide, orders them by popularity using t
 
 In the command line, you have the option to set:
 
-q: topic of the article
+***q***: topic of the article
 
-day: the date the article was published
+***day***: the date the article was published
 
-limit: number of articles to fetch
+***limit***: number of articles to fetch
 
 
 Usage:
